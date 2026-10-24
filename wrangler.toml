@@ -1,0 +1,6 @@
+name = "belajar-nest"
+main = "dist/main.js"
+compatibility_date = "2026-10-25"
+
+[vars]
+NODE_VERSION = "20"
